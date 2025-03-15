@@ -17,3 +17,5 @@ OpenCV
 NumPy
 Matplotlib
 Pandas
+![1733495667824](https://github.com/user-attachments/assets/6f02b63c-5797-45e9-a3e5-cda58264f8e3)
+![1733495688353](https://github.com/user-attachments/assets/53d14e7a-1888-44b1-b12a-e5b5614ae476)
