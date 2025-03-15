@@ -5,7 +5,6 @@ computer vision and deep learning to create a football analysis system. This pro
 
 ## Datasets:
 kaggle Dataset: [https://www.kaggle.com/competitions/d...](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips)
-Video link used because Kaggle removed the videos from the kaggle dataset above: [https://drive.google.com/file/d/1t6ag...](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view)
 Robowflow Football Dataset: https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1
 
 ## Dependencies:
